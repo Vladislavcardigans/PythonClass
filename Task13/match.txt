@@ -1,0 +1,12 @@
+{"team1": "Manch", "team2": "Dinamo", "players": 62987400, "result": "3:2", "date": "20.02.2019", "id": 62950024, "location": "Minsk"}
+{"team1": "Dinamo", "team2": "Barselona", "players": 62987400, "result": "1:4", "date": "21.02.2019", "id": 62958920, "location": "Gomel"}
+{"team1": "Manch", "team2": "Barselona", "players": 62987400, "result": "2:1", "date": "22.02.2019", "id": 62957576, "location": "Brest"}
+{"team1": "Manch", "team2": "Dinamo", "players": 63040968, "result": "3:2", "date": "20.02.2019", "id": 62987400, "location": "Minsk"}
+{"team1": "Dinamo", "team2": "Barselona", "players": 63040968, "result": "1:4", "date": "21.02.2019", "id": 62873736, "location": "Gomel"}
+{"team1": "Manch", "team2": "Barselona", "players": 63040968, "result": "2:1", "date": "22.02.2019", "id": 62958920, "location": "Brest"}
+{"team1": "Manch", "team2": "Dinamo", "players": 62939528, "result": "3:2", "date": "20.02.2019", "id": 63040968, "location": "Minsk"}
+{"team1": "Dinamo", "team2": "Barselona", "players": 62939528, "result": "1:4", "date": "21.02.2019", "id": 62950024, "location": "Gomel"}
+{"team1": "Manch", "team2": "Barselona", "players": 62939528, "result": "2:1", "date": "22.02.2019", "id": 62873736, "location": "Brest"}
+{"team1": "Manch", "team2": "Dinamo", "players": 62940552, "result": "3:2", "date": "20.02.2019", "id": 62939528, "location": "Minsk"}
+{"team1": "Dinamo", "team2": "Barselona", "players": 62940552, "result": "1:4", "date": "21.02.2019", "id": 62987400, "location": "Gomel"}
+{"team1": "Manch", "team2": "Barselona", "players": 62940552, "result": "2:1", "date": "22.02.2019", "id": 62950024, "location": "Brest"}
